@@ -1,0 +1,9 @@
+{
+    "acetylcholine": {"low": -10, "high":-15}, 
+    "serotonin" : {"low": -10, "high":-15},
+    "dopamine" : {"low": -10, "high":-15},
+    "gaba" : {"low": -10, "high":-15},
+    "glutamate" : {"low": -10, "high":-15},
+    "norepinephrine" : {"low": -10, "high":-15},
+    "testosterone" : {"low": -10, "high":-15}
+}

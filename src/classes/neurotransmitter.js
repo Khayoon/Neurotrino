@@ -7,14 +7,15 @@
 // dont think just do!!!!
 
 let NeuroSystem = {
-  acetylcholine: 50,
-  serotonin: 50,
-  dopamine: 50,
-  gaba: 50,
-  glutamate: 50,
-  norepinephrine: 50,
-  testosterone: 50,
+  acetylcholine: 0,
+  serotonin: 0,
+  dopamine: 0,
+  gaba: 0,
+  glutamate: 0,
+  norepinephrine: 0,
+  testosterone: 0,
   transmitterCount: 7,
+  health: 100,
 
   // modifys a transmitter of the current object.
   modTransmitter(transmitter, increment) {
@@ -47,6 +48,9 @@ let NeuroSystem = {
       transmitters.push(Object.keys(this)[i]);
 
     return transmitters;
+  },
+  amIFried() {
+    return this.health <= 0;
   },
 };
 
