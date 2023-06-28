@@ -1,0 +1,28 @@
+[
+    {
+      "_comment": "Add all substance with their corresponding effect values",
+      "substance": "marijuana",
+      "effects": {
+        "acetylcholine": "Varies",
+        "serotonin": 1,
+        "dopamine": 1,
+        "gaba": 1,
+        "glutamate": -1,
+        "norepinephrine": "Varies",
+        "testosterone": -1
+      }
+    },
+    {
+      "substance": "caffeine",
+      "effects": {
+        "acetylcholine": 1,
+        "serotonin": "Varies",
+        "dopamine": 1,
+        "gaba": -1,
+        "glutamate": 1,
+        "norepinephrine": 1,
+        "testosterone": "Varies"
+      }
+    }
+  ]
+  
