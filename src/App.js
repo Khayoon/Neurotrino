@@ -1,5 +1,3 @@
-import logo from "./logo.svg";
-// transmitter table
 import substanceTransmitters from "./data/substances_transmitters.json";
 // substance list data
 import substances from "./data/substances.json";
@@ -8,19 +6,71 @@ import transmitters from "./data/transmitters.json";
 // nervous system object which houses and manages all nerutransmitters
 import { NeuroSystem } from "./classes/neurotransmitter";
 import "./App.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import ModalBox from "./components/Modalbox/ModalBox";
+//import avatars from './assets/avatars';
+import avatarwave from './assets/avatarwave.png';
+import awkward from './assets/awkward.png';
+import awe from './assets/awe.png';
+import chatty from './assets/chatty.png';
+import confident from './assets/confident.png';
+//import ecstatic from './assets/ecstatic.png';
+import excited from './assets/excited.png';
+import laughing from './assets/laughing.png';
+import nap from './assets/nap.png';
+import rage0 from './assets/rage0.png';
+import rage1 from './assets/rage1.png';
+import rage2 from './assets/rage2.png';
+import satisfied from './assets/satisfied.png';
+import scared from './assets/scared.png';
+import squeeing from './assets/squeeing.png';
+let avatar = avatarwave; // Default
 
 function App() {
-  const [neuroSystem, setNeuroSystem] = useState(NeuroSystem);
+  const [neuroSystem, setNeuroSystem] = useState( NeuroSystem);
   const [showModal, setShowModal] = useState(false);
   const [modalHeading, setModalHeading] = useState("");
   const [modalContent, setModalContent] = useState("");
+  const [avatar, setAvatar] = useState(""); // Add the avatar state
+
+
+ useEffect(() => {
+  let transmitterLevels = neuroSystem;
+  let selectedAvatar = avatarwave; // Default avatar
+
+  if (transmitterLevels.acetylcholine > 0) {
+    selectedAvatar = chatty;
+  } else if (transmitterLevels.serotonin > 0) {
+    selectedAvatar = laughing; // Happy
+  } else if (transmitterLevels.dopamine > 0) {
+    selectedAvatar = satisfied; // Satisfied
+  } else if (transmitterLevels.gaba > 0) {
+    selectedAvatar = nap; // Relaxed
+  } else if (transmitterLevels.glutamate > 0) {
+    selectedAvatar = excited; // Excited
+  } else if (transmitterLevels.norepinephrine === 2) {
+    selectedAvatar = rage2; // Highest level of rage
+  } else if (transmitterLevels.norepinephrine === 1) {
+    selectedAvatar = rage1; // Lower level of rage
+  } else if (transmitterLevels.testosterone > 0) {
+    selectedAvatar = confident; // Confident
+  }
+
+  if (transmitterLevels.testosterone < 0) {
+    selectedAvatar = scared; // Show "scared" when testosterone falls
+  }
+
+  setAvatar(selectedAvatar);
+}, [neuroSystem]);
+
+
+
   const displayModalFried = () => {
     setModalHeading("Neutrino");
     setModalContent("Nervous system is fried");
     setShowModal(true);
   };
+
   return (
     <div className="App">
       {showModal && (
@@ -30,11 +80,29 @@ function App() {
           content={modalContent}
         />
       )}
-      <h1>Welcome to Neurotrino</h1>
-      {/* {well change this container later its just for the demo.} */}
+      <h1>Neurotrinsmitters in your day simulator</h1>
+      {/* Avatar */}
+      <div className="avatar">
+        <img src={avatar} alt="Avatar" className="avatar-image" />
+      </div>
+      {/* Here we show the stats */}
+      <div className="stats">
+        <div>Health: {neuroSystem.health > 0 ? neuroSystem.health : 0}</div>
+        {/* This shows the Neurotransmitter stats */}
+        <div className="flex-container-stack">
+          {neuroSystem.getTransmitters().map((transmitter) => (
+            <div>
+              {transmitter +
+                ": " +
+                Math.round((neuroSystem[transmitter] + Number.EPSILON) * 100) /
+                  100 +
+                "%"}
+            </div>
+          ))}
+        </div>
+      </div>
+      {/* render the substance boxes. */}
       <div className="flex-container">
-        <div>Health:{neuroSystem.health > 0 ? neuroSystem.health : 0}</div>
-        {/* render the substance boxes. */}
         {substances.map((substance) => (
           <div
             onClick={() => {
@@ -76,7 +144,7 @@ function App() {
                     health: nervousSystemHealth,
                   }));
                   if (nervousSystemHealth <= 0) {
-                    displayModalFried();
+                    displayModalFried(); // Here is where displayModalFried is being used
                   }
                 } else {
                   // the desired substance cannot be found.
@@ -89,10 +157,9 @@ function App() {
                   setShowModal(true);
                 }
               } else {
-                displayModalFried();
+                displayModalFried(); // And here
               }
-            }}
-          >
+            }}>
             <img
               style={{ height: 100, width: "auto" }}
               src={process.env.PUBLIC_URL + "/images/" + substance.img}
@@ -102,12 +169,6 @@ function App() {
                 substance.name.slice(1, substance.name.length)}
             </div>
           </div>
-        ))}
-      </div>
-      {/* all neurotransmitters with their levels rendered here  */}
-      <div className="flex-container-stack">
-        {neuroSystem.getTransmitters().map((transmitter) => (
-          <div>{transmitter + ": " + neuroSystem[transmitter]}</div>
         ))}
       </div>
     </div>

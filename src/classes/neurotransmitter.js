@@ -15,7 +15,7 @@ let NeuroSystem = {
   norepinephrine: 0,
   testosterone: 0,
   transmitterCount: 7,
-  health: 100,
+  health: 1000,
 
   // modifys a transmitter of the current object.
   modTransmitter(transmitter, increment) {
