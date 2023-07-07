@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+### Neurotransmitter App
+Neurotransmitter App is a web application that allows users to explore the effects of various substances on neurotransmitter levels. It provides an interactive and visual representation of how substances can impact neurotransmitter and hormone levels in the human body.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App Demo to be added
 
-## Available Scripts
+### Features
+Simulate the effects of different substances on neurotransmitter levels.
+Visualize the changes in neurotransmitter and hormone levels through an intuitive user interface.
+Explore a wide range of substances, including drugs, food, and activities.
+Gain insights into the potential effects of substances on the body and mind.
+Educational tool for understanding the role of neurotransmitters and their impact on human physiology.
 
-In the project directory, you can run:
+### Stack(s) Used: MERN
+React for the frontend user interface.
+JSON data files to store information about substances, effects, and neurotransmitter levels.
+Express for data manipulation and rendering.
+GIF's stored on a MongoDB Atlas cluster for the animations
 
-### `npm start`
+### Usage
+Select a substance from the available options.
+Click the "Simulate Effect" button to see the impact of the chosen substance on neurotransmitter levels.
+Observe the changes in neurotransmitter and hormone levels displayed on the screen.
+Repeat the process with different substances to compare their effects.
+Future Enhancements
+Include more substances with their corresponding effects to provide a comprehensive simulation.
+Implement a feature to track and save personal substance usage history.
+Add additional visualizations, such as graphs or charts, to display the changes in neurotransmitter levels over time.
+Improve the user interface design to enhance user experience and accessibility.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Credits
+The Neurotransmitter App was developed by Saif Khayoon and Miko Moh as a showcase project to demonstrate frontend web development skills and data visualization techniques.
