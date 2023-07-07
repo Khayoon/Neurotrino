@@ -28,4 +28,4 @@ Add additional visualizations, such as graphs or charts, to display the changes 
 Improve the user interface design to enhance user experience and accessibility.
 
 ### Credits
-The Neurotransmitter App was developed by Saif Khayoon and Miko Moh as a showcase project to demonstrate frontend web development skills and data visualization techniques.
+The Neurotransmitter App was developed by Saif Khayoon and Miko Moh as a showcase project to demonstrate full stack web development skills and data visualization techniques.
