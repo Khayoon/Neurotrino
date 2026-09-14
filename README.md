@@ -16,6 +16,4 @@ Include more substances with their corresponding effects to provide a comprehens
 Implement a feature to track and save personal substance usage history.
 Add additional visualizations, such as graphs or charts, to display the changes in neurotransmitter levels over time.
 Improve the user interface design to enhance user experience and accessibility.
-
-### Credits
-The Neurotransmitter App was developed by Saif Khayoon and Miko Moh as a showcase project to demonstrate full stack web development skills and data visualization techniques.
+ 
