@@ -1,0 +1,2156 @@
+[
+  {
+    "npn": "80063975",
+    "ingredient": "magnesium",
+    "brand": "Jamieson",
+    "manufacturerUrl": "https://www.jamiesonvitamins.com/products/magnesium-powder-lemon-lime",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80063975",
+    "checkedAt": "2026-09-14T13:53:41.758Z",
+    "licence": {
+      "lnhpd_id": 21282651,
+      "licence_number": "80063975",
+      "licence_date": "2015-09-15",
+      "revised_date": "2023-05-24",
+      "time_receipt": "2015-09-08",
+      "date_start": "2015-09-15",
+      "product_name_id": 8441439,
+      "product_name": "Magnesium Mix",
+      "dosage_form": "Powder",
+      "company_id": 10152,
+      "company_name_id": 13812326,
+      "company_name": "Jamieson Laboratories Ltd./ Nutricorp International",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Magnesium Mix",
+      "High Absorption Magnesium Mix",
+      "Magnesium Powder Mix",
+      "Magnesium Lemon Lime Powder",
+      "Magnesium Lemon Lime Powder Mix",
+      "Powder Magnesium"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:40.9250246Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 21282651,
+          "ingredient_name": "Magnesium",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 300,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "milligrams",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Magnesium bisglycinate"
+        },
+        {
+          "lnhpd_id": 21282651,
+          "ingredient_name": "Magnesium",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 300,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "milligrams",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Magnesium carbonate"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:41.0656996Z"
+      },
+      "data": [
+        {
+          "text_id": 8441443,
+          "lnhpd_id": 21282651,
+          "purpose": "A factor in the maintenance of good health. Helps in bone development. Helps in energy metabolism/(and) tissue formation. Helps in the development and maintenance of bones/(and) teeth. Helps to maintain/support normal electrolyte balance. Helps to maintain/support normal muscle function, including the heart muscle. Helps to maintain/support normal muscle function. Helps to maintain/support the body¿s ability to metabolize nutrients. Source of/Provides (an) electrolyte(s) (for the maintenance of good health)."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:41.1281300Z"
+      },
+      "data": []
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 21282651,
+        "dose_id": 8441440,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 0,
+        "age_maximum": 0,
+        "uom_type_desc_age": "",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "scoop",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80005079",
+    "ingredient": "magnesium",
+    "brand": "Jamieson",
+    "manufacturerUrl": "https://www.jamiesonvitamins.com/products/magnesium-caplets",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80005079",
+    "checkedAt": "2026-09-14T13:53:42.422Z",
+    "licence": {
+      "lnhpd_id": 3913494,
+      "licence_number": "80005079",
+      "licence_date": "2008-05-14",
+      "revised_date": "2023-08-30",
+      "time_receipt": "2004-03-25",
+      "date_start": "2004-04-05",
+      "product_name_id": 26842,
+      "product_name": "Magnesium Ultra Strength 250mg",
+      "dosage_form": "Caplet",
+      "company_id": 10152,
+      "company_name_id": 13812326,
+      "company_name": "Jamieson Laboratories Ltd./ Nutricorp International",
+      "sub_submission_type_code": 3,
+      "sub_submission_type_desc": "Non-Traditional",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Magnesium Ultra Strength 250mg",
+      "Magnesium Complex 250 mg"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:41.3313167Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 3913494,
+          "ingredient_name": "Magnesium",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 25,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Magnesium gluconate"
+        },
+        {
+          "lnhpd_id": 3913494,
+          "ingredient_name": "Magnesium",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 25,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Magnesium lactate"
+        },
+        {
+          "lnhpd_id": 3913494,
+          "ingredient_name": "Magnesium",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 200,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Magnesium oxide"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:41.4406909Z"
+      },
+      "data": [
+        {
+          "text_id": 4597600,
+          "lnhpd_id": 3913494,
+          "purpose": "A factor in the maintenance of good health. Helps in bone development. Helps in energy metabolism/(and) tissue formation. Helps in the development and maintenance of bones/(and) teeth. Helps to maintain/support normal electrolyte balance. Helps to maintain/support normal muscle function, including the heart muscle. Helps to maintain/support normal muscle function. Helps to maintain/support the body¿s ability to metabolize nutrients. Helps to prevent magnesium deficiency."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:41.8000344Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 3913494,
+          "risk_id": 1750054,
+          "risk_type_desc": "Known Adverse Reactions",
+          "sub_risk_type_desc": "",
+          "risk_text": "Some people may experience diarrhea."
+        }
+      ]
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 3913494,
+        "dose_id": 19542992,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 0,
+        "age_maximum": 0,
+        "uom_type_desc_age": "",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "caplet",
+        "frequency": 2,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "Day"
+      }
+    ]
+  },
+  {
+    "npn": "80143940",
+    "ingredient": "magnesium",
+    "brand": "Jamieson",
+    "manufacturerUrl": "https://www.jamiesonvitamins.com/products/pure-magnesium-l-threonate",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80143940",
+    "checkedAt": "2026-09-14T13:53:42.813Z",
+    "licence": {
+      "lnhpd_id": 29388216,
+      "licence_number": "80143940",
+      "licence_date": "2025-09-09",
+      "revised_date": "2026-03-10",
+      "time_receipt": "2025-07-18",
+      "date_start": "2025-08-12",
+      "product_name_id": 25189238,
+      "product_name": "Magnesium L-Threonate",
+      "dosage_form": "Capsule",
+      "company_id": 10152,
+      "company_name_id": 13812326,
+      "company_name": "Jamieson Laboratories Ltd./ Nutricorp International",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Magnesium L-Threonate",
+      "Magnesium L-Threonate Capsule"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:42.0187787Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 29388216,
+          "ingredient_name": "Magnesium",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 50,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Magnesium L-threonate"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:42.1437624Z"
+      },
+      "data": [
+        {
+          "text_id": 25189241,
+          "lnhpd_id": 29388216,
+          "purpose": "A factor in normal growth and development.  A factor in the maintenance of good health.  For maintaining general health.  Helps in bone development.  Helps in energy metabolism/(and) tissue formation.  Helps in the development and maintenance of bones/(and) teeth.  Helps to maintain/support heart muscle function.  Helps to maintain/support normal electrolyte balance.  Helps to maintain/support normal muscle function, including the heart muscle.  Helps to maintain/support normal muscle function.  Maintains/supports good health.  Source of/Provides (an) electrolyte(s) for the maintenance of good health.  Source of/Provides (an) electrolyte(s)."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:42.2063113Z"
+      },
+      "data": []
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 29388216,
+        "dose_id": 25189236,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 0,
+        "age_maximum": 0,
+        "uom_type_desc_age": "Years",
+        "quantity_dose": 0,
+        "quantity_dose_minimum": 1,
+        "quantity_dose_maximum": 5,
+        "uom_type_desc_quantity_dose": "capsule",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80102907",
+    "ingredient": "creatine",
+    "brand": "HD Muscle",
+    "manufacturerUrl": "",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80102907",
+    "checkedAt": "2026-09-14T13:53:43.322Z",
+    "licence": {
+      "lnhpd_id": 24445785,
+      "licence_number": "80102907",
+      "licence_date": "2020-07-20",
+      "revised_date": "2024-02-14",
+      "time_receipt": "2020-04-27",
+      "date_start": "2020-05-31",
+      "product_name_id": 17133178,
+      "product_name": "Creatine",
+      "dosage_form": "Powder",
+      "company_id": 48729,
+      "company_name_id": 16399867,
+      "company_name": "HD Muscle",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "HD Muscle Creatine",
+      "Creatine",
+      "CreaHD"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:42.2999967Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 24445785,
+          "ingredient_name": "N-(Aminoiminomethyl)-N-methylglycine monohydrate",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 5,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "g",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Creatine monohydrate"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:42.3937936Z"
+      },
+      "data": [
+        {
+          "text_id": 17133182,
+          "lnhpd_id": 24445785,
+          "purpose": "Improves strength/power/performance in repetitive bouts of brief, highly-intense physical activity (e.g. sprints, jumping, resistance training) (by increasing [muscle/intramuscular] [creatine/phosphocreatine/energy] levels). Increases body/(lean)muscle mass/size when used in conjunction with a resistance training regimen."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:42.6906478Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 24445785,
+          "risk_id": 17133183,
+          "risk_type_desc": "Cautions and Warnings",
+          "sub_risk_type_desc": "",
+          "risk_text": "Consult a health care practitioner/health care provider/health care professional/doctor/physician prior to use if you are pregnant, breastfeeding or have kidney disease/disorder. May result in weight gain."
+        }
+      ]
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 24445785,
+        "dose_id": 17133179,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 18,
+        "age_maximum": 0,
+        "uom_type_desc_age": "year(s)",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "scoop",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80027038",
+    "ingredient": "creatine",
+    "brand": "Optimum Nutrition",
+    "manufacturerUrl": "",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80027038",
+    "checkedAt": "2026-09-14T13:53:43.897Z",
+    "licence": {
+      "lnhpd_id": 19656897,
+      "licence_number": "80027038",
+      "licence_date": "2011-08-23",
+      "revised_date": "2026-09-12",
+      "time_receipt": "2011-08-04",
+      "date_start": "2011-08-05",
+      "product_name_id": 4381647,
+      "product_name": "Creatine Powder",
+      "dosage_form": "Powder",
+      "company_id": 11148,
+      "company_name_id": 51677,
+      "company_name": "Optimum Nutrition Inc.",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Creatine Powder"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:42.8938001Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 19656897,
+          "ingredient_name": "N-(aminoiminomethyl)-N-methylglycine monohydrate",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 5,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "g",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Creatine monohydrate"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:42.9719153Z"
+      },
+      "data": [
+        {
+          "text_id": 4408380,
+          "lnhpd_id": 19656897,
+          "purpose": "Increases body/(lean)muscle mass/size when used in conjunction with a resistance training regimen. Improves strength/power/performance in repetitive bouts of brief, highly-intense physical activity (e.g. sprints, jumping, resistance training) (by increasing [muscle/intramuscular] [creatine/phosphocreatine/energy] levels)."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:43.2843949Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 19656897,
+          "risk_id": 4381654,
+          "risk_type_desc": "Cautions and Warnings",
+          "sub_risk_type_desc": "",
+          "risk_text": "When using this product you may gain weight. Ask a health care practitioner/health care provider/health care professional/doctor/physician before use if you are pregnant or breastfeeding. Ask a health care practitioner/health care provider/health care professional/doctor/physician before use if you have a kidney disorder."
+        }
+      ]
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 19656897,
+        "dose_id": 4381648,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 18,
+        "age_maximum": 0,
+        "uom_type_desc_age": "year(s)",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "Serving",
+        "frequency": 0,
+        "frequency_minimum": 1,
+        "frequency_maximum": 4,
+        "uom_type_desc_frequency": "daily"
+      },
+      {
+        "lnhpd_id": 19656897,
+        "dose_id": 4381650,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 18,
+        "age_maximum": 0,
+        "uom_type_desc_age": "year(s)",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "Serving",
+        "frequency": 0,
+        "frequency_minimum": 1,
+        "frequency_maximum": 4,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80008605",
+    "ingredient": "creatine",
+    "brand": "NOW",
+    "manufacturerUrl": "https://nowfoods.ca/product/creatine-monohydrate-pure/",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80008605",
+    "checkedAt": "2026-09-14T13:53:44.500Z",
+    "licence": {
+      "lnhpd_id": 4139343,
+      "licence_number": "80008605",
+      "licence_date": "2008-11-14",
+      "revised_date": null,
+      "time_receipt": "2005-03-04",
+      "date_start": "2005-05-09",
+      "product_name_id": 344951,
+      "product_name": "NOW Creatine Monohydrate Powder",
+      "dosage_form": "Powder",
+      "company_id": 11708,
+      "company_name_id": 23486355,
+      "company_name": "NOW Health Group, Inc.",
+      "sub_submission_type_code": 3,
+      "sub_submission_type_desc": "Non-Traditional",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "NOW Creatine Monohydrate Powder"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:43.4563178Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 4139343,
+          "ingredient_name": "N-(aminoiminomethyl)-N-methylglycine monohydrate",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 3000,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": ""
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:43.5500159Z"
+      },
+      "data": [
+        {
+          "text_id": 2281219,
+          "lnhpd_id": 4139343,
+          "purpose": "Helps maintain optimum performance during brief, high-intensity physical activity when used in conjunction with resistance training."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:43.8938239Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 4139343,
+          "risk_id": 2281265,
+          "risk_type_desc": "Contra-Indications",
+          "sub_risk_type_desc": "",
+          "risk_text": "Do not take if you suffer from renal dysfunction, hypertension, are pregnant or breastfeeding."
+        },
+        {
+          "lnhpd_id": 4139343,
+          "risk_id": 2281258,
+          "risk_type_desc": "Cautions and Warnings",
+          "sub_risk_type_desc": "",
+          "risk_text": "Consult a healthcare practitioner prior to use if you are taking any other medications.  Do not use this product with caffeine containing products."
+        },
+        {
+          "lnhpd_id": 4139343,
+          "risk_id": 2281268,
+          "risk_type_desc": "Known Adverse Reactions",
+          "sub_risk_type_desc": "",
+          "risk_text": "Gastrointestinal pain, muscle cramping, nausea, and diarrhea may occur."
+        }
+      ]
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 4139343,
+        "dose_id": 2281232,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 0,
+        "age_maximum": 0,
+        "uom_type_desc_age": "",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "tea spoon",
+        "frequency": 0,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      },
+      {
+        "lnhpd_id": 4139343,
+        "dose_id": 2281227,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 0,
+        "age_maximum": 0,
+        "uom_type_desc_age": "",
+        "quantity_dose": 2,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "tea spoon",
+        "frequency": 2,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80142697",
+    "ingredient": "creatine",
+    "brand": "Landish",
+    "manufacturerUrl": "https://landish.ca/products/creatine",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80142697",
+    "checkedAt": "2026-09-14T13:53:45.095Z",
+    "licence": {
+      "lnhpd_id": 29221686,
+      "licence_number": "80142697",
+      "licence_date": "2025-07-17",
+      "revised_date": null,
+      "time_receipt": "2025-05-26",
+      "date_start": "2025-06-09",
+      "product_name_id": 24987117,
+      "product_name": "Pure Creatine Monohydrate",
+      "dosage_form": "Powder",
+      "company_id": 60840,
+      "company_name_id": 18350926,
+      "company_name": "9336-4131 Quebec Inc. d.b.a. Landish Foods",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Pure Creatine Monohydrate"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:44.0656613Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 29221686,
+          "ingredient_name": "N-(Aminoiminomethyl)-N-methylglycine monohydrate",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 5,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "g",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Creatine monohydrate"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:44.1593876Z"
+      },
+      "data": [
+        {
+          "text_id": 24987119,
+          "lnhpd_id": 29221686,
+          "purpose": "Improves strength/power/performance in repetitive bouts of brief, highly-intense physical activity (e.g. sprints, jumping, resistance training) (by increasing [muscle/intramuscular] [creatine/phosphocreatine/energy] levels).  Increases body/(lean)muscle mass/size when used in conjunction with a resistance training regimen."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:44.4875667Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 29221686,
+          "risk_id": 24987120,
+          "risk_type_desc": "Cautions and Warnings",
+          "sub_risk_type_desc": "",
+          "risk_text": "Ask a health care practitioner/health care provider/health care professional/doctor/physician before use if you are pregnant or breastfeeding.  Ask a health care practitioner/health care provider/health care professional/doctor/physician before use if you have a kidney disorder.  When using this product you may gain weight."
+        }
+      ]
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 29221686,
+        "dose_id": 24987115,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 18,
+        "age_maximum": 0,
+        "uom_type_desc_age": "Years",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "teaspoons",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80012124",
+    "ingredient": "vitamin-d",
+    "brand": "Webber Naturals",
+    "manufacturerUrl": "https://webbernaturals.com/products/vitamin-d3-1000-iu-liquid",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80012124",
+    "checkedAt": "2026-09-14T13:53:45.467Z",
+    "licence": {
+      "lnhpd_id": 5709132,
+      "licence_number": "80012124",
+      "licence_date": "2009-07-29",
+      "revised_date": "2019-08-02",
+      "time_receipt": "2009-07-14",
+      "date_start": "2009-07-15",
+      "product_name_id": 2714036,
+      "product_name": "Liquid D3",
+      "dosage_form": "Liquid",
+      "company_id": 10831,
+      "company_name_id": 7504278,
+      "company_name": "WN Pharmaceuticals Ltd",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Liquid D3",
+      "Liquid Vitamin D3 1000iu",
+      "Vitamin D",
+      "D",
+      "Vitamin D Liquid",
+      "Liquid Vitamin D",
+      "Vitamin D Liquid Adult",
+      "Vitamin D3",
+      "Liquid Vitamin D Adult",
+      "Liquid Vitamin D3",
+      "Webber Naturals Liquid D3",
+      "D3"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:44.6750062Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 5709132,
+          "ingredient_name": "Vitamin D",
+          "ingredient_Text": null,
+          "potency_amount": 1000,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "IU",
+          "quantity": 25,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mcg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Cholecalciferol"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:44.7687793Z"
+      },
+      "data": [
+        {
+          "text_id": 2747602,
+          "lnhpd_id": 5709132,
+          "purpose": "Helps in the development and maintenance of bones and teeth, and in the absorption and use of calcium and phosphorus. Calcium intake, when combined with sufficient Vitamin D, a healthy diet and regular exercise may reduce the risk of developing osteoporosis. A factor in the maintenance of good health. Helps to prevent vitamin D deficiency. Helps to build strong bones and teeth. Helps to maintain immune function. Source of vitamin, a factor in the maintenance of good health. Source of vitamin, a factor in normal growth and development. Source of vitamin to support biological functions which play a key role in the maintenance of good health. Vitamin supplement."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:44.8625160Z"
+      },
+      "data": []
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 5709132,
+        "dose_id": 2747603,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 0,
+        "age_maximum": 0,
+        "uom_type_desc_age": "",
+        "quantity_dose": 0,
+        "quantity_dose_minimum": 1,
+        "quantity_dose_maximum": 1,
+        "uom_type_desc_quantity_dose": "Droppers",
+        "frequency": 0,
+        "frequency_minimum": 1,
+        "frequency_maximum": 1,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80012207",
+    "ingredient": "vitamin-d",
+    "brand": "Webber Naturals",
+    "manufacturerUrl": "",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80012207",
+    "checkedAt": "2026-09-14T13:53:45.856Z",
+    "licence": {
+      "lnhpd_id": 5706480,
+      "licence_number": "80012207",
+      "licence_date": "2009-07-31",
+      "revised_date": "2026-04-01",
+      "time_receipt": "2009-07-13",
+      "date_start": "2009-07-14",
+      "product_name_id": 2708855,
+      "product_name": "Vitamin D",
+      "dosage_form": "Capsule",
+      "company_id": 10831,
+      "company_name_id": 7504278,
+      "company_name": "WN Pharmaceuticals Ltd",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Vitamin D",
+      "Vitamin D3",
+      "D3",
+      "D",
+      "D3 1000 IU",
+      "D 1000 IU"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:45.0656564Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 5706480,
+          "ingredient_name": "Vitamin D",
+          "ingredient_Text": null,
+          "potency_amount": 1000,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "IU",
+          "quantity": 25,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mcg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Cholecalciferol"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:45.1750049Z"
+      },
+      "data": [
+        {
+          "text_id": 2756026,
+          "lnhpd_id": 5706480,
+          "purpose": "Helps in the development and maintenance of bones/ (and) teeth. Helps in the absorption (and use) of calcium and phosphorus.  A factor in the maintenance of good health.  Maintains/support good health.  For maintaining general health.  Vitamin D intake, when combined with sufficient calcium, a healthy diet and regular exercise may reduce the risk of developing osteoporosis. Helps to build strong bones/ (and) teeth. Helps (to) maintain/support immune function/the immune system.  Helps with immune function/the immune system. Helps to prevent vitamin D deficiency.  Helps (to) maintain bones and teeth."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:45.2531685Z"
+      },
+      "data": []
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 5706480,
+        "dose_id": 2756033,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 0,
+        "age_maximum": 0,
+        "uom_type_desc_age": "",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "capsule",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80119840",
+    "ingredient": "l-theanine",
+    "brand": "Webber Naturals",
+    "manufacturerUrl": "https://webbernaturals.com/products/l-theanine-250-mg",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80119840",
+    "checkedAt": "2026-09-14T13:53:46.500Z",
+    "licence": {
+      "lnhpd_id": 26435487,
+      "licence_number": "80119840",
+      "licence_date": "2022-07-11",
+      "revised_date": null,
+      "time_receipt": "2022-05-30",
+      "date_start": "2022-06-02",
+      "product_name_id": 20715794,
+      "product_name": "L-Theanine",
+      "dosage_form": "Capsule",
+      "company_id": 10831,
+      "company_name_id": 7504278,
+      "company_name": "WN Pharmaceuticals Ltd",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "L-Theanine"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:45.4250393Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 26435487,
+          "ingredient_name": "L-Theanine",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 250,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "L-Theanine"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:45.5656849Z"
+      },
+      "data": [
+        {
+          "text_id": 20715798,
+          "lnhpd_id": 26435487,
+          "purpose": "Helps to temporarily promote relaxation."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:45.8938165Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 26435487,
+          "risk_id": 20715799,
+          "risk_type_desc": "Cautions and Warnings",
+          "sub_risk_type_desc": "",
+          "risk_text": "Keep out of reach of children."
+        }
+      ]
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 26435487,
+        "dose_id": 20715795,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 18,
+        "age_maximum": 0,
+        "uom_type_desc_age": "Years",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "capsule",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80017548",
+    "ingredient": "l-theanine",
+    "brand": "Pure Encapsulations",
+    "manufacturerUrl": "https://www.atriumpro.ca/media/pdf_upload/LTH6C_V2.pdf",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80017548",
+    "checkedAt": "2026-09-14T13:53:46.841Z",
+    "licence": {
+      "lnhpd_id": 4565145,
+      "licence_number": "80017548",
+      "licence_date": "2010-04-09",
+      "revised_date": "2024-07-11",
+      "time_receipt": "2006-08-31",
+      "date_start": "2006-09-01",
+      "product_name_id": 981479,
+      "product_name": "L Theanine",
+      "dosage_form": "Capsule",
+      "company_id": 72314,
+      "company_name_id": 23870466,
+      "company_name": "Nestle Canada Inc. dba (Atrium Innovations/Genestra Brands/Pure Encapsulations/Garden of Life Canada/Trophic Canada/SISU/Wobenzym/Bountiful Canada Vitamins/Nature's Bounty/Vital Proteins Canada)",
+      "sub_submission_type_code": 3,
+      "sub_submission_type_desc": "Non-Traditional",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "L Theanine",
+      "L-Theanine"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:46.0656531Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 4565145,
+          "ingredient_name": "L-Theanine",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 200,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": ""
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:46.1594147Z"
+      },
+      "data": [
+        {
+          "text_id": 3396270,
+          "lnhpd_id": 4565145,
+          "purpose": "Helps to temporarily promote relaxation."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:46.2375740Z"
+      },
+      "data": []
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 4565145,
+        "dose_id": 3396272,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 0,
+        "age_maximum": 0,
+        "uom_type_desc_age": "",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "capsule",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80054972",
+    "ingredient": "melatonin",
+    "brand": "Jamieson",
+    "manufacturerUrl": "https://www.jamiesonvitamins.com/products/melatonin-10-mg-fast-dissolving",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80054972",
+    "checkedAt": "2026-09-14T13:53:47.457Z",
+    "licence": {
+      "lnhpd_id": 20788092,
+      "licence_number": "80054972",
+      "licence_date": "2014-10-20",
+      "revised_date": "2020-09-30",
+      "time_receipt": "2014-10-09",
+      "date_start": "2014-10-20",
+      "product_name_id": 6812250,
+      "product_name": "Melatonin Quick Dissolve",
+      "dosage_form": "Tablet",
+      "company_id": 10152,
+      "company_name_id": 13812326,
+      "company_name": "Jamieson Laboratories Ltd./ Nutricorp International",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Fast Dissolving Melatonin 10 mg Peppermint Flavour",
+      "Fast Dissolving Melatonin 10 mg Peppermint Flavour Max",
+      "Melatonin Quick Dissolve",
+      "Better Sleep Melatonin 10 mg Quick Dissolve Max",
+      "Melatonin 10 mg Quick Dissolve Max",
+      "Better Sleep Melatonin 10 mg Quick Dissolve",
+      "Fast Dissolving Melatonin 10 mg",
+      "Fast Dissolving Melatonin 10 mg Max"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:46.4250694Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 20788092,
+          "ingredient_name": "N-Acetyl-5-methoxytryptamine",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 10,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": ""
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:46.5188110Z"
+      },
+      "data": [
+        {
+          "text_id": 17892972,
+          "lnhpd_id": 20788092,
+          "purpose": "Helps increase the total sleep time (aspect of sleep quality) in people suffering from sleep restriction or altered sleep schedule (e.g. shift-work and jet lag). Helps to prevent and/or reduce the effects of jet lag/minimize jet lag (e.g. daytime fatigue, sleep disturbance) (for people travelling by plane easterly across two or more time zones/if flying east over two or more time zones). Helps to speed up/reduce the time it takes to fall asleep (sleep onset latency aspect of sleep quality) in people who fall asleep slowly/with delayed sleep phase disorder. Helps re-set the body's sleepwake\ncycle (aspect of the circadian rhythm)."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:46.8469325Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 20788092,
+          "risk_id": 6812259,
+          "risk_type_desc": "Cautions and Warnings",
+          "sub_risk_type_desc": "",
+          "risk_text": "Consult a health care practitioner if sleeplessness persists for more than 1 month (chronic insomnia).\nConsult a health care practitioner prior to use if: you are taking steroids, blood thinners, or medications for seizures, blood pressure, to suppress the immune system, to affect mental state or increase sedation; you have cardiovascular, immune, liver or chronic kidney disease, hormonal or seizure disorders, asthma, depression, diabetes, low blood sugar or migraines."
+        },
+        {
+          "lnhpd_id": 20788092,
+          "risk_id": 6812257,
+          "risk_type_desc": "Contra-Indications",
+          "sub_risk_type_desc": "",
+          "risk_text": "Do not use this product if you are pregnant or breastfeeding.\nAvoid taking with alcohol or products that increase drowsiness."
+        },
+        {
+          "lnhpd_id": 20788092,
+          "risk_id": 6812255,
+          "risk_type_desc": "Known Adverse Reactions",
+          "sub_risk_type_desc": "",
+          "risk_text": "Stop use if allergic reaction occurs or if you experience headache, confusion or nausea."
+        }
+      ]
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 20788092,
+        "dose_id": 6812251,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 19,
+        "age_maximum": 0,
+        "uom_type_desc_age": "year(s)",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "tablet",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80048886",
+    "ingredient": "melatonin",
+    "brand": "Webber Naturals",
+    "manufacturerUrl": "https://webbernaturals.com/products/melatonin-1-mg-quick-dissolve-sublingual-tablets",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80048886",
+    "checkedAt": "2026-09-14T13:53:48.132Z",
+    "licence": {
+      "lnhpd_id": 7737990,
+      "licence_number": "80048886",
+      "licence_date": "2014-03-03",
+      "revised_date": "2025-10-02",
+      "time_receipt": "2014-02-24",
+      "date_start": "2014-03-03",
+      "product_name_id": 6223300,
+      "product_name": "Melatonin 1 mg",
+      "dosage_form": "Tablet",
+      "company_id": 10831,
+      "company_name_id": 7504278,
+      "company_name": "WN Pharmaceuticals Ltd",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Melatonin 1 mg",
+      "Melatonin"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:47.0343824Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 7737990,
+          "ingredient_name": "N-Acetyl-5-methoxytryptamine",
+          "ingredient_Text": null,
+          "potency_amount": 0,
+          "potency_constituent": "",
+          "potency_unit_of_measure": "",
+          "quantity": 1,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": ""
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:47.1281671Z"
+      },
+      "data": [
+        {
+          "text_id": 6223340,
+          "lnhpd_id": 7737990,
+          "purpose": "Helps (to) increase the total sleep time (aspect of sleep quality) in people suffering from sleep restriction or altered sleep schedule (e.g. shift-work and jet lag). Helps (to) prevent and/or reduce the effects of jet lag/minimize jet lag (e.g. daytime fatigue, sleep disturbance) (for people/if travelling by plane easterly across two or more time zones/flying east over two or more time zones). Helps (to) speed up/reduce the time it takes to fall asleep (sleep onset latency aspect of sleep quality) in people who fall asleep slowly/with delayed sleep phase disorder. Helps (to) re-set the body's sleep-wake cycle (aspect of the circadian rhythm). May help alleviate abdominal pain associated with Irritable Bowel Syndrome (IBS). Helps reduce and/or prevent the daytime fatigue associated with jet lag. (Used as a) sleep aid (to help promote sleep)."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:47.5187661Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 7737990,
+          "risk_id": 6223347,
+          "risk_type_desc": "Cautions and Warnings",
+          "sub_risk_type_desc": "",
+          "risk_text": "Ask/Consult a physician if sleeplessness persists for more than 4 weeks (chronic insomnia). Ask/Consult a physician before/prior to use if you have a cardiovascular, immune, liver or kidney disease, seizure disorder, asthma or diabetes. Ask/Consult a physician before/prior use if you are taking medications for seizure, blood pressure, to suppress the immune system, to affect mental state or increase sedation, steroids or blood thinners. When using this product avoid taking with alcohol or products that cause drowsiness. When using this product avoid driving or using machinery for 5 hours."
+        },
+        {
+          "lnhpd_id": 7737990,
+          "risk_id": 6223352,
+          "risk_type_desc": "Contra-Indications",
+          "sub_risk_type_desc": "",
+          "risk_text": "Do not use if you are pregnant or breastfeeding."
+        },
+        {
+          "lnhpd_id": 7737990,
+          "risk_id": 6223354,
+          "risk_type_desc": "Known Adverse Reactions",
+          "sub_risk_type_desc": "",
+          "risk_text": "Stop use if allergy occurs or if you experience headache, confusion, or nausea. Keep out of reach of children."
+        }
+      ]
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 7737990,
+        "dose_id": 6223341,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 0,
+        "age_maximum": 0,
+        "uom_type_desc_age": "",
+        "quantity_dose": 1,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "tablet",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      },
+      {
+        "lnhpd_id": 7737990,
+        "dose_id": 19441974,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 0,
+        "age_maximum": 0,
+        "uom_type_desc_age": "",
+        "quantity_dose": 3,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "tablet",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80003179",
+    "ingredient": "omega-3",
+    "brand": "Jamieson",
+    "manufacturerUrl": "https://www.jamiesonvitamins.com/products/omega-3-complete",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80003179",
+    "checkedAt": "2026-09-14T13:53:48.485Z",
+    "licence": {
+      "lnhpd_id": 4109157,
+      "licence_number": "80003179",
+      "licence_date": "2007-04-13",
+      "revised_date": "2014-10-28",
+      "time_receipt": "2005-01-25",
+      "date_start": "2005-04-01",
+      "product_name_id": 303571,
+      "product_name": "Omega-3 Extra Strength",
+      "dosage_form": "Softgel capsule",
+      "company_id": 10152,
+      "company_name_id": 13812326,
+      "company_name": "Jamieson Laboratories Ltd./ Nutricorp International",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Omega-3 Extra Strength",
+      "Omega-3 Extra Strength",
+      "Omega-3 Extra Strength 600mg"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:47.7063154Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 4109157,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 400,
+          "potency_constituent": "EPA",
+          "potency_unit_of_measure": "mg",
+          "quantity": 1000,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Sardine body oil"
+        },
+        {
+          "lnhpd_id": 4109157,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 200,
+          "potency_constituent": "DHA",
+          "potency_unit_of_measure": "mg",
+          "quantity": 0,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Sardine body oil"
+        },
+        {
+          "lnhpd_id": 4109157,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 400,
+          "potency_constituent": "EPA",
+          "potency_unit_of_measure": "mg",
+          "quantity": 1000,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Anchovy body oil"
+        },
+        {
+          "lnhpd_id": 4109157,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 200,
+          "potency_constituent": "DHA",
+          "potency_unit_of_measure": "mg",
+          "quantity": 0,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Anchovy body oil"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:47.8000714Z"
+      },
+      "data": [
+        {
+          "text_id": 5062147,
+          "lnhpd_id": 4109157,
+          "purpose": "Source of omega-3 fatty acids for the maintenance of good health.  Source of EPA  and DHA for the maintenance of good health.  Helps maintain/support cardiovascular health and reduce serum triglycerides.  Helps support cognitive health /brain function. Helps to promote healthy mood balance. May help increase/promote natural muscle anabolism in older adults. May help increase/promote natural building of muscle mass in older adults. May help prevent sarcopenia in older adults (by increasing/promoting natural building of muscle mass). Helps prevent age related muscle loss."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:47.8782233Z"
+      },
+      "data": []
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 4109157,
+        "dose_id": 5062149,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 0,
+        "age_maximum": 0,
+        "uom_type_desc_age": "",
+        "quantity_dose": 0,
+        "quantity_dose_minimum": 1,
+        "quantity_dose_maximum": 3,
+        "uom_type_desc_quantity_dose": "capsule",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80045582",
+    "ingredient": "omega-3",
+    "brand": "Jamieson",
+    "manufacturerUrl": "https://www.jamiesonvitamins.com/products/omega-3-mini-softgel",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80045582",
+    "checkedAt": "2026-09-14T13:53:49.107Z",
+    "licence": {
+      "lnhpd_id": 20329218,
+      "licence_number": "80045582",
+      "licence_date": "2013-10-18",
+      "revised_date": "2019-02-11",
+      "time_receipt": "2013-08-20",
+      "date_start": "2013-09-06",
+      "product_name_id": 5879623,
+      "product_name": "Omega 3 Select Mini",
+      "dosage_form": "Capsule, soft",
+      "company_id": 10152,
+      "company_name_id": 13812326,
+      "company_name": "Jamieson Laboratories Ltd./ Nutricorp International",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Omega 3 Select Mini"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:48.0656880Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 20329218,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 180,
+          "potency_constituent": "Eicosapentaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 500,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Scombridae - Whole"
+        },
+        {
+          "lnhpd_id": 20329218,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 120,
+          "potency_constituent": "Docosahexaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 0,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Scombridae - Whole"
+        },
+        {
+          "lnhpd_id": 20329218,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 300,
+          "potency_constituent": "Omega-3 Fatty acids",
+          "potency_unit_of_measure": "mg",
+          "quantity": 0,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Scombridae - Whole"
+        },
+        {
+          "lnhpd_id": 20329218,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 180,
+          "potency_constituent": "Eicosapentaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 500,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Clupeidae - Whole"
+        },
+        {
+          "lnhpd_id": 20329218,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 120,
+          "potency_constituent": "Docosahexaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 0,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Clupeidae - Whole"
+        },
+        {
+          "lnhpd_id": 20329218,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 300,
+          "potency_constituent": "Omega-3 Fatty acids",
+          "potency_unit_of_measure": "mg",
+          "quantity": 0,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Clupeidae - Whole"
+        },
+        {
+          "lnhpd_id": 20329218,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 180,
+          "potency_constituent": "Eicosapentaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 500,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "mg",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Engraulidae - Whole"
+        },
+        {
+          "lnhpd_id": 20329218,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 120,
+          "potency_constituent": "Docosahexaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 0,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Engraulidae - Whole"
+        },
+        {
+          "lnhpd_id": 20329218,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 300,
+          "potency_constituent": "Omega-3 Fatty acids",
+          "potency_unit_of_measure": "mg",
+          "quantity": 0,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Engraulidae - Whole"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:48.3313196Z"
+      },
+      "data": [
+        {
+          "text_id": 5879627,
+          "lnhpd_id": 20329218,
+          "purpose": "Source of omega-3 fatty acids for the maintenance of good health. Source of eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) for the maintenance of good health. Helps to maintain/support cardiovascular health. Helps to support cognitive health and/or brain function. Helps to reduce serum triglycerides/triacylglycerols. Helps to reduce cholesterol and promote heart health."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:48.4875496Z"
+      },
+      "data": []
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 20329218,
+        "dose_id": 5879624,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 19,
+        "age_maximum": 0,
+        "uom_type_desc_age": "year(s)",
+        "quantity_dose": 0,
+        "quantity_dose_minimum": 1,
+        "quantity_dose_maximum": 4,
+        "uom_type_desc_quantity_dose": "capsule",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80028808",
+    "ingredient": "omega-3",
+    "brand": "Webber Naturals",
+    "manufacturerUrl": "https://webbernaturals.com/products/omega-3-700-mg-no-fishy-aftertaste",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80028808",
+    "checkedAt": "2026-09-14T13:53:49.627Z",
+    "licence": {
+      "lnhpd_id": 19761495,
+      "licence_number": "80028808",
+      "licence_date": "2011-12-28",
+      "revised_date": "2023-07-27",
+      "time_receipt": "2011-12-08",
+      "date_start": "2011-12-09",
+      "product_name_id": 4584484,
+      "product_name": "Fish Oil",
+      "dosage_form": "Capsule, delayed release",
+      "company_id": 10831,
+      "company_name_id": 7504278,
+      "company_name": "WN Pharmaceuticals Ltd",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 0
+    },
+    "aliases": [
+      "Fish Oil",
+      "700 mg Omega 3",
+      "Fish Oil 1200 mg",
+      "Omega-3",
+      "Omega 3 Arthritis Pain Support Formula",
+      "Omega-3 Arthritis",
+      "Super Concentrate Omega-3",
+      "Extra Strength Omega-3"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:48.7843991Z"
+      },
+      "data": [
+        {
+          "lnhpd_id": 19761495,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 420,
+          "potency_constituent": "Eicosapentaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 1.2,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "g",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Oil from the bodies of mackerel, tuna, or bonito"
+        },
+        {
+          "lnhpd_id": 19761495,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 280,
+          "potency_constituent": "Docosahexaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 0,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Oil from the bodies of mackerel, tuna, or bonito"
+        },
+        {
+          "lnhpd_id": 19761495,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 420,
+          "potency_constituent": "Eicosapentaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 1.2,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "g",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Anchovy body oil"
+        },
+        {
+          "lnhpd_id": 19761495,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 280,
+          "potency_constituent": "Docosahexaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 0,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Anchovy body oil"
+        },
+        {
+          "lnhpd_id": 19761495,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 420,
+          "potency_constituent": "Eicosapentaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 1.2,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "g",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Oil from the bodies of herring, shad, sardine, or menhaden"
+        },
+        {
+          "lnhpd_id": 19761495,
+          "ingredient_name": "Fish oil",
+          "ingredient_Text": null,
+          "potency_amount": 280,
+          "potency_constituent": "Docosahexaenoic acid",
+          "potency_unit_of_measure": "mg",
+          "quantity": 0,
+          "quantity_minimum": 0,
+          "quantity_maximum": 0,
+          "quantity_unit_of_measure": "",
+          "ratio_numerator": "",
+          "ratio_denominator": "",
+          "dried_herb_equivalent": "",
+          "dhe_unit_of_measure": "",
+          "extract_type_desc": "",
+          "source_material": "Oil from the bodies of herring, shad, sardine, or menhaden"
+        }
+      ]
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:48.9405920Z"
+      },
+      "data": [
+        {
+          "text_id": 4610038,
+          "lnhpd_id": 19761495,
+          "purpose": "Source of omega-3 fatty acids for the maintenance of good health. Source of eicosapentaenoic acid (EPA) and/or docosahexaenoic acid (DHA) for the maintenance of good health. Helps maintain/support cardiovascular health. Helps support cognitive health and/or brain function. Helps to reduce serum triglycerides/triacylglycerols. In conjunction with conventional therapy, helps to reduce the pain of rheumatoid arthritis in adults."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T18:53:49.0031296Z"
+      },
+      "data": []
+    },
+    "productdose": [
+      {
+        "lnhpd_id": 19761495,
+        "dose_id": 4584487,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 18,
+        "age_maximum": 0,
+        "uom_type_desc_age": "Years",
+        "quantity_dose": 0,
+        "quantity_dose_minimum": 1,
+        "quantity_dose_maximum": 2,
+        "uom_type_desc_quantity_dose": "Capsule, delayed release",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      },
+      {
+        "lnhpd_id": 19761495,
+        "dose_id": 4584489,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 19,
+        "age_maximum": 0,
+        "uom_type_desc_age": "Years",
+        "quantity_dose": 4,
+        "quantity_dose_minimum": 0,
+        "quantity_dose_maximum": 0,
+        "uom_type_desc_quantity_dose": "Capsule, delayed release",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      },
+      {
+        "lnhpd_id": 19761495,
+        "dose_id": 4584491,
+        "population_type_desc": "Adults",
+        "age": 0,
+        "age_minimum": 19,
+        "age_maximum": 0,
+        "uom_type_desc_age": "Years",
+        "quantity_dose": 0,
+        "quantity_dose_minimum": 2,
+        "quantity_dose_maximum": 4,
+        "uom_type_desc_quantity_dose": "Capsule, delayed release",
+        "frequency": 1,
+        "frequency_minimum": 0,
+        "frequency_maximum": 0,
+        "uom_type_desc_frequency": "daily"
+      }
+    ]
+  },
+  {
+    "npn": "80079431",
+    "ingredient": "creatine",
+    "brand": "Blue Star Nutraceuticals",
+    "manufacturerUrl": "https://ca.bluestarnutraceuticals.com/products/creatine-monohydrate",
+    "sourceUrl": "https://health-products.canada.ca/api/natural-licences/productlicence/?lang=en&type=json&id=80079431",
+    "checkedAt": "2026-09-14T14:35:24.857Z",
+    "licence": {
+      "lnhpd_id": 9053265,
+      "licence_number": "80079431",
+      "licence_date": "2017-08-14",
+      "revised_date": "2025-06-13",
+      "time_receipt": "2017-07-26",
+      "date_start": "2017-08-08",
+      "product_name_id": 11564205,
+      "product_name": "Creatine",
+      "dosage_form": "Powder",
+      "company_id": 41377,
+      "company_name_id": 11338005,
+      "company_name": "Blue Star Nutraceuticals Inc.",
+      "sub_submission_type_code": 1,
+      "sub_submission_type_desc": "Compendial",
+      "flag_primary_name": 1,
+      "flag_product_status": 1,
+      "flag_attested_monograph": 1
+    },
+    "aliases": [
+      "Creatine"
+    ],
+    "medicinalingredient": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T19:34:40.6281465Z"
+      },
+      "data": []
+    },
+    "productpurpose": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T19:34:54.1124857Z"
+      },
+      "data": [
+        {
+          "text_id": 11564220,
+          "lnhpd_id": 9053265,
+          "purpose": "Increases muscle mass when used in conjunction with a resistance training regimen. Improves power in repetitive bouts of brief, highly-intense physical activity (e.g. sprints, jumping, resistance training) (by increasing intramuscular creatine levels)."
+        }
+      ]
+    },
+    "productrisk": {
+      "metadata": {
+        "pagination": null,
+        "dateReceived": "2026-09-14T19:35:09.1906264Z"
+      },
+      "data": []
+    },
+    "productdose": []
+  }
+]

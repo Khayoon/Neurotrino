@@ -1,0 +1,1 @@
+export default function Loading(){return <main id="main" className="wrap loading-state" aria-busy="true"><div className="eyebrow">OPENING THE FIELD GUIDE</div><div className="skeleton hero-skeleton"/><div className="ingredient-grid">{[1,2,3].map(i=><div className="skeleton card-skeleton" key={i}/>)}</div></main>;}

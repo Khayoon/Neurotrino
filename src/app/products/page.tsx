@@ -1,0 +1,5 @@
+import { getProducts } from '@/lib/db';
+import { ProductBrowser } from '@/components/product-browser';
+import { ShieldCheck } from 'lucide-react';
+export const metadata={title:'Explore Canadian products'};
+export default async function Products(){const products=await getProducts();return <main id="main" className="wrap directory-page"><div className="page-heading"><span className="eyebrow"><ShieldCheck size={15}/>A CLOSER LOOK AT THE BOTTLE</span><h1>Good questions.<br/><em>Traceable answers.</em></h1><p>Get to know the products behind the names. Compare Canadian licences, independent testing evidence, and the gaps that still need a closer look.</p></div><div className="honesty-note"><ShieldCheck size={20}/><p><strong>A licence is the starting point.</strong> These records include official licence checks. Testing, manufacturing, and recall reviews remain unverified unless a specific source is shown. “Most documented” does not mean “best for you.”</p></div><ProductBrowser products={products}/></main>;}

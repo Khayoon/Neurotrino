@@ -1,0 +1,3 @@
+import { getProduct, getAudit } from '@/lib/db';
+import { evaluateEvidence } from '@/lib/rating';
+export async function GET(_request:Request,{params}:{params:Promise<{npn:string}>}){const product=await getProduct((await params).npn);if(!product)return Response.json({error:'Product not found'},{status:404});return Response.json({exportedAt:new Date().toISOString(),product,rating:evaluateEvidence(product.evidence),history:await getAudit(product.id),note:'Evidence coverage is not a safety or efficacy rating.'},{headers:{'Cache-Control':'no-store','Content-Disposition':`attachment; filename="neurotrino-${product.npn}-evidence.json"`}});}
